@@ -12,7 +12,9 @@
 #include "Engine/Engine.h"
 #include "Kismet/GameplayStatics.h"
 #include "Engine/StaticMeshActor.h"
-#include "Public/EngineUtils.h"
+#include "EngineUtils.h"
+//ATENÇÃO USE APENAS #include/EngineUtils.h ao invés de Public/EngineUtils.h
+//#include "Public/EngineUtils.h"
 
 
 // Sets default values
